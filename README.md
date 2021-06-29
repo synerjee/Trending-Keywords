@@ -36,8 +36,9 @@ Once having ranked the keywords, the top 30 were selected.
 
 - Visualizing the Result as a Word Cloud
 
-The top 30 keywords should give one a decent idea of what is going on at the moment. Visualization helps to put data into perspective.
+The top 30 keywords should give you a decent idea of what is going on at the moment. Visualization helps to put data into perspective.
 The visualization method used in this script is a 'word cloud,' which is a common form of visualization of textual data. 
 A Python library called 'wordcloud' was perfect for this step, even providing a method that saves the result as a file.
 
 'sample.png' should give you an idea of how the end result of this script would look like.
+The script was run on June 26th, 2021.
