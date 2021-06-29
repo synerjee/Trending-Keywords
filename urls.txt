@@ -1,0 +1,6 @@
+http://rssfeeds.usatoday.com/UsatodaycomNation-TopStories/
+http://rss.cnn.com/rss/cnn_topstories.rss
+http://feeds.bbci.co.uk/news/world/rss.xml
+https://time.com/feed/
+http://feeds.feedburner.com/ndtvnews-world-news
+https://www1.cbn.com/rss-cbn-articles-cbnnews.xml
