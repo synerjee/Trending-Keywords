@@ -21,10 +21,12 @@ It works in three steps.
 3) Visualizing the Result as a Word Cloud
 
 - Data Collection
+
 Data were collected using a Python library called 'feedparser,' which uses RSS feeds to collect data from various news outlets. 
 Specifically, headlines of various news articles were gathered.
 
 - Natural Language Processing
+
 It is not enough to simply gather data, but to use them. Since the data took the form of text, it would be appropriate to use an NLP library 
 to process these data. The library used here is called 'nltk-rake.' With this library, it only took a few lines of code to extract keywords 
 from the headlines. 
@@ -33,6 +35,7 @@ which is very useful if one wished to rank the keywords in some order.
 Once having ranked the keywords, the top 30 were selected.
 
 - Visualizing the Result as a Word Cloud
+
 The top 30 keywords should give one a decent idea of what is going on at the moment. Visualization helps to put data into perspective.
 The visualization method used in this script is a 'word cloud,' which is a common form of visualization of textual data. 
 A Python library called 'wordcloud' was perfect for this step, even providing a method that saves the result as a file.
